@@ -1,4 +1,4 @@
-# checkra1n
+# checkra1n jailbreak
 ![](https://pbs.twimg.com/media/EGdLypWW4AU176L?format=png&name=large)  
 **Read [disclaimer](#disclaimer) before using this software.*
 
