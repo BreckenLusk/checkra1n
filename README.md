@@ -1,13 +1,8 @@
 # checkra1n
-
 ![](https://pbs.twimg.com/media/EGdLypWW4AU176L?format=png&name=large)
-## Open-source jailbreaking tool for many iOS devices
-
-
 **Read [disclaimer](#disclaimer) before using this software.*
 
-
-## checkm8
+## checkm8 exploit
 
 * permanent unpatchable bootrom exploit for hundreds of millions of iOS devices
 
