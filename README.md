@@ -14,7 +14,7 @@
 
 * future SoC support: s5l8940x, s5l8942x, s5l8945x, s5l8747x, t7000, t7001, s7002, s8000, s8001, s8003, t8012
 
-* full jailbreak with Cydia on latest iOS version is possible, but requires additional work
+* full jailbreak with a package manager on latest iOS version is possible, but requires additional work
 
 
 ## Quick start guide for checkm8
